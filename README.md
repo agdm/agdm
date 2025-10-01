@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/05aab586-042a-43c6-844e-8db333613d89/thumbnail" >
+</p>
+
 <!--
 **agdm/agdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
